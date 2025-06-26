@@ -1,4 +1,4 @@
-package carrindodecompras;
+package list.carrindodecompras;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package carrindodecompras;
+package list.carrindodecompras;
 
 public class Item {
     private String name;

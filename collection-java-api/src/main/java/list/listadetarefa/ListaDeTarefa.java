@@ -1,4 +1,4 @@
-package listadetarefa;
+package list.listadetarefa;
 
 import java.util.ArrayList;
 import java.util.List;

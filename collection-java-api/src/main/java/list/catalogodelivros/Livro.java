@@ -1,4 +1,4 @@
-package catalogodelivros;
+package list.catalogodelivros;
 
 public class Livro {
 

@@ -1,4 +1,4 @@
-package listadetarefa;
+package list.listadetarefa;
 
 public class Tarefa {
 
