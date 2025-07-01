@@ -45,11 +45,7 @@ public class Aluno implements Comparable<Aluno>{
 
     @Override
     public String toString() {
-        return "Aluno{" +
-                "nome='" + nome + '\'' +
-                ", matricula=" + matricula +
-                ", media=" + media +
-                '}';
+        return "{" + nome + ", " + matricula + ", " + media + '}';
     }
 
     @Override
